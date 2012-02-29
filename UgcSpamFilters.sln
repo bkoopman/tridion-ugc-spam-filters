@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UgcSpamFilters", "UgcSpamFilters\UgcSpamFilters.csproj", "{2AF24908-6CF5-446C-A131-2C18BF6512FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF24908-6CF5-446C-A131-2C18BF6512FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF24908-6CF5-446C-A131-2C18BF6512FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF24908-6CF5-446C-A131-2C18BF6512FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF24908-6CF5-446C-A131-2C18BF6512FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
